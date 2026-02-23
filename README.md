@@ -1,2 +1,2 @@
 # allEdusprojects
-I'll be using this repository for all dev projects.
+I'll be using this repository for all my dev projects.
