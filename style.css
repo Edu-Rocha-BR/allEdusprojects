@@ -1,0 +1,42 @@
+body{color:rgb(247,239,247);
+    background-color:rgb(128, 128, 128);}           
+
+h1{ background-color: rgb(201, 20, 71);
+    color:rgb(247, 239, 247);
+    font-family:"Cursive",sans-serif;
+    font-size:50px;
+    font-weight:bold;
+    text-decoration:underline;
+    text-align:center;
+                
+            }
+            
+            
+ 
+h3{ background-color: rgb(201, 20, 71);
+    color:rgb(247, 239, 247);
+    font-family:"Cursive",sans-serif;
+    font-size:25px;
+    text-align:left;
+                
+            }  
+                 
+p{line-height:20px;
+font-family:"monospace",sans-serif;
+    text-align:justify;
+}            
+a{text-decoration:none;
+ font-family:"Cursive",sans-serif;    
+}            
+            
+            
+            
+            
+            
+            
+ img {
+  display: block;
+  margin: 30px auto;
+  max-width: 80%;
+  border-radius: 10px;
+}
